@@ -13,6 +13,7 @@ module.exports = {
       'gattention3': '#FF04C8',
       'postive': '#9FFE00',
       'pending': '#CCABE1',
+      'black': '#000000',
     },
   },
   plugins: [require("daisyui")],
