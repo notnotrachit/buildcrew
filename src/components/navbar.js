@@ -13,16 +13,16 @@ export default function Navbar(){
     <div className="hidden w-full md:block md:w-auto" id="navbar-default">
       <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 rounded-lg md:flex-row md:space-x-8 md:mt-0 text-center">
       <li>
-          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500 hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
+          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:text-lblue font-bold font-['Inter'] md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500">Home</a>
         </li>
         <li>
-          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500 hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Why BUIDL Crew?</a>
+          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:text-lblue font-bold font-['Inter'] md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500">Why BUIDL Crew?</a>
         </li>
         <li>
-          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500 hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contest/Events</a>
+          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:text-lblue font-bold font-['Inter'] md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500">Contest/Events</a>
         </li>
         <li>
-          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:bg-gray-100 md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500 hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Hall of Fame</a>
+          <a href="/" className="block py-2 pl-3 pr-4 rounded hover:text-lblue font-bold font-['Inter'] md:border-0 md:hover:text-blue-700 md:p-0 text-white md:hover:text-blue-500">Hall of Fame</a>
         </li>
       </ul>
     </div>

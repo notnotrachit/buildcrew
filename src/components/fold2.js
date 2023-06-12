@@ -25,7 +25,6 @@ export default function Fold2() {
                     </li>
                 ))}
             </ul>
-
       </section>
     )
 }
