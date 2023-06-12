@@ -4,12 +4,14 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Hero from './components/hero';
 import Navbar from './components/navbar';
+import Fold2 from './components/fold2';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navbar />
     <Hero />
+    <Fold2 />
   </React.StrictMode>
 );
 

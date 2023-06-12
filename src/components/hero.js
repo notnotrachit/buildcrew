@@ -18,13 +18,13 @@ export default function Hero() {
       </div>
       <div className="flex flex-wrap justify-center gap-10 font-['Inter'] font-bold">
         <a href="https://discord.gg/SGPG8PqkHW">
-          <button className="bg-lblue text-lvoilet text-xl flex py-1 px-2 gap-2 rounded-xl hover:scale-110 transition-all ease-in-out shadow-lg shadow-white">
-          &lt;<FaDiscord size={'1.5rem'} className="mt-0.5"/> Join Discord &gt;
+          <button className="bg-lblue text-lvoilet text-3xl flex py-2 px-4 gap-2 rounded-xl hover:scale-110 transition-all ease-in-out shadow-lg shadow-white">
+          <FaDiscord size={'2rem'} className="mt-0.5"/> Join Discord
           </button>
         </a>
         <a href="https://forms.lumoslabs.co/whitelist">
-          <button className="bg-lblue text-lvoilet text-xl flex py-1 px-2 gap-2 rounded-xl hover:scale-110 transition-all ease-in-out shadow-lg shadow-white">
-          &lt; Join the Whitelist &gt;
+          <button className="bg-lblue text-lvoilet text-3xl flex py-2 px-4 gap-2 rounded-xl hover:scale-110 transition-all ease-in-out shadow-lg shadow-white">
+          Join the Whitelist
           </button>
         </a>
       </div>
